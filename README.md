@@ -9,3 +9,7 @@ I can do anything from shopping, to __fishing__, to __snowboarding__.
   1. Snowboarding
   2. Fishing
   3. Shopping
+
+* Crapes
+* Exotic Game
+* Pizza
