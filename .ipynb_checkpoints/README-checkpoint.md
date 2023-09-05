@@ -13,3 +13,5 @@ I can do anything from shopping, to __fishing__, to __snowboarding__.
 * Crapes
 * Exotic Game
 * Pizza
+
+[My Stats](MyStats.md)
