@@ -36,3 +36,11 @@ whether or not you believe in it. - _Neil DeGrasse Tyson_
 
 > There is no greater education
 than one that is self-driven. - _Neil DeGrasse Tyson_
+
+---
+### Open Link in New Window
+> Is it possible to open an a href link in a new tab instead of the same tab?
+[Stack Overflow Question](https://stackoverflow.com/questions/15551779/open-link-in-new-tab-or-window)
+
+*** <a href="http://chriscoyier.net" target="_blank">This link will open in new window/tab</a> ***
+[Snippet Sorce](https://css-tricks.com/snippets/html/open-link-in-a-new-window/)
