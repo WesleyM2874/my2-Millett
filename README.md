@@ -27,3 +27,9 @@ recommendation, and the time that should be spent participating in the sport.
 | Baseball   | Strategical      | 25 hrs |
 | Basketball | Least Contact    | 20 hrs |
 | Soccer     | Foot Cordination | 15 hrs |
+
+---
+### Scientist Quotes
+> _The good thing about science
+is that it's true 
+whether or not you believe in it_ - Neil DeGrasse Tyson
