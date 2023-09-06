@@ -33,5 +33,6 @@ recommendation, and the time that should be spent participating in the sport.
 > _The good thing about science
 is that it's true 
 whether or not you believe in it._ - Neil DeGrasse Tyson
+
 > _There is no greater education
 than one that is self-driven._ - Neil DeGrasse Tyson
