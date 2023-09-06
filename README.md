@@ -30,9 +30,9 @@ recommendation, and the time that should be spent participating in the sport.
 
 ---
 ### Scientist Quotes
-> _The good thing about science
+> The good thing about science
 is that it's true 
-whether or not you believe in it._ - Neil DeGrasse Tyson
+whether or not you believe in it. - _Neil DeGrasse Tyson_
 
-> _There is no greater education
-than one that is self-driven._ - Neil DeGrasse Tyson
+> There is no greater education
+than one that is self-driven. - _Neil DeGrasse Tyson_
